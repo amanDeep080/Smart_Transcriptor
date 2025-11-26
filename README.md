@@ -1,1 +1,1 @@
-# Smart_Transcrptor
+# Smart_Transcriptor
